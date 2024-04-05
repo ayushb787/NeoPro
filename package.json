@@ -1,0 +1,14 @@
+{
+  "name": "chrome_extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logesh T",
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^5.19.2"
+  }
+}
